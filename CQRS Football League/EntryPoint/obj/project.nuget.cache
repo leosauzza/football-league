@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TK+rgnocO9w5MjSbEB+8+4eE7a1z8C5Lriabzgwz8mv5mwCQ8XvuifRj8gen8ePTpZlQAOKOoo8++yRkrtX5iw==",
+  "success": true,
+  "projectFilePath": "C:\\personalrepos\\cqrs-football-league\\CQRS Football League\\EntryPoint\\CQRS Football League.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonardo.sauzza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\leonardo.sauzza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\leonardo.sauzza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\leonardo.sauzza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\leonardo.sauzza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\leonardo.sauzza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
